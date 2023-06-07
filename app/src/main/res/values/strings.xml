@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoSpinnerTest</string>
+    <string-array name="spinnerItems">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
